@@ -2,7 +2,9 @@
 
 In this project, I began practicing using the interpreter, printing text
 and variables, as well as indexing and slicing strings in Python.
+
 Function Prototypes :floppy_disk:
+
 Prototypes for functions written in this project:
 
 | File                       | Prototype                             |
