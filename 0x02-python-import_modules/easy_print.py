@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 str = "#pythoniscool"
-print("{} ".format (str))
+print("{}".format(str))
