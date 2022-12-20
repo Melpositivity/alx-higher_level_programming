@@ -18,10 +18,9 @@ class Square:
             self.__size = size  #: size of the square
 
     def area(self):
-        print("Area: {}".format(square.area()))
         """returns the area.
 
         Returns:
             ares.
         """
-        return self.__area
+        return self.__size**2
